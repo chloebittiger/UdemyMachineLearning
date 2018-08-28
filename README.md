@@ -1,6 +1,6 @@
 # BitTiger-Udemy 机器学习：人工智能必修课
 
-下面是三个模块的代码
+本目录包含三个模块的代码
 
 ### Module 1 - 第一模块
 	•	livecoding - 实战课代码
