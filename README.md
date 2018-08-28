@@ -11,5 +11,5 @@
 	•	RecommenderSystem - 项目课代码
   
 ### Module 3 - 第三模块
-	•	livecoding - 实战课代码
+	•	CF.ipynb - 实战课代码
 	•	FinalRecommenderSystem - 项目课代码 
